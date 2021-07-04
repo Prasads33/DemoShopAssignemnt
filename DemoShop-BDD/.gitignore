@@ -1,0 +1,14 @@
+/.idea/
+*.class
+*.tlogs*
+
+.jar
+.war
+.ear
+
+**/target
+build
+*.iml
+target/*
+./logs/*
+./screenshots/*.png
